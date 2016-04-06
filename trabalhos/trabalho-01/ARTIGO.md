@@ -412,12 +412,17 @@ ACCEPT - Recebe algo em algum lugar...
 IF - Testa algo, faz algo e END-IF...
 GO - Vai para algum lugar...O comando GO deve mandar sempre para algum paragrafo, nunca para uma linha especifica no código.
 
-Bom, tudo bem que não é o foco da linguagem um programa como esse, mas nas comparações read, write e expressividade
-como visto em aula, essa linguagem estaria com péssima avaliação em todos.
-    
+
+# Conclusão comparativa # :
+	O COBOL demorou apenas seis meses para ficar pronto e até os dias de hoje é fortemente utilizada. Atualmente as aplicações desenvolvidas em COBOL rodam em plataformas MAINFRAME IBM z/OS, a velocidade de processamento do COBOL nessa plataforma aliada com o banco de dados DB2 é impressionante, são capazes de processar milhões de transações num espaço de tempo muito curto. Instituições estatais, financeiras e grandes empresas privadas possuem todo o seu sistema de processamento de dados desenvolvido em COBOL. O que está ocorrendo atualmente é que outras linguagens de programação estão sendo usadas para criar interfaces de coleta e exibição de dados, mas todo processamento de dados é realizado por programas COBOL, por exemplo: você acessa o internet banking de seu banco ou utiliza um caixa eletrônico, tudo o que você vê é apenas uma "casca" desenvolvido em PHP, JSP, Java, C e outras, essa "casca" apenas coleta e exibe os dados, mas todo o processamento pesado é realizado por programas em COBOL. 
+	COBOL é muito rápido devido ao tipo de linguagem COBOL é, de campos de comprimento fixo e decimais aritméticos. Desenvolvido muitos anos antes da existência da teoria moderna sobre linguagens de programação, há pouco para se comparar com as linguagens atuais. Um alfanumérico pode ser tratado como um número, e não no sentido de uma linguagem interpretada pode fazer, mas por ponderação por parte do programador.
+	Uma vantagem do COBOL é que, como visto acima, a linguagem COBOL tem mais de 50 anos de otimizações, o que a torna bem eficiente em processamento de dados(Em geral, as linguagens não sofreram tantas adaptações). O código COBOL também é processual e não orientado a objetos, portanto, seu desempenho tradicional e linear oferece uma grande vantagem real sobre outras linguagens.
+    Na leitura(Readability) de um programa escrito em COBOL, geralmente são muitas linhas de código(de um código que já não é muito fácil de se entender) o que acaba tornando a compreensão bem complicada, a linguagem ainda possui diversos componentes básicos e recusos. Para escrever(Writability) um código em COBOL, consiste em saber a língua inglesa. Para compreendê-la o programador deve conhecer sua sintaxe, verbos e sentenças da língua. Na expressividade na minha opinião, fora do foco que o COBOL tem, num programa simples, qualquer outra linguagem mais atual pode expressar melhor do que no COBOOL. 
 
 	Bibliografia
     http://tudocobol.blogspot.com.br/
+    http://www.redbooks.ibm.com/abstracts/sg246366.html
+    http://www-03.ibm.com/software/products/en/cobocompfami
 
 # Curiosidades #
 * Em 1999, o grupo Gartner fez uma pesquisa e concluiu que 80% das aplicações corporativas em execução no mundo naquele momento eram escritas em Cobol. Os outros 20% eram compartilhados pelas demais linguagens. Este dado tem 9 anos hoje, no entanto, a realidade não deve ser tão diferente nos dias atuais. Basta levar em consideração que BOA parte deste código estava presente em aplicações de missão crítica que, com alta probabilidade, ainda estão em execução hoje. Aliás, um estudo mais recente do mesmo instituto, comprovou que atualmente (artigo de 2006), há aproximadamente **180 bilhões** de linhas de código escritas em Cobol em execução atualmente.
