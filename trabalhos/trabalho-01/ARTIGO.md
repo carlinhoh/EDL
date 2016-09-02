@@ -1,5 +1,5 @@
 # Intro: #
-sigla de **CO**mmon **B**usiness **O**riented **L**anguage, Linguagem Comum Orientada para os Negócios é uma linguagem de programação orientada para o processamento de banco de dados comerciais.É a linguagem de programação inteira mais usada, produto do Departamento de Defesa norte-americano sob a direção da contra-almirante Grace Murray Hopper.
+Sigla de **CO**mmon **B**usiness **O**riented **L**anguage, Linguagem Comum Orientada para os Negócios é uma linguagem de programação orientada para o processamento de banco de dados comerciais.É a linguagem de programação inteira mais usada, produto do Departamento de Defesa norte-americano sob a direção da contra-almirante Grace Murray Hopper.
     
     Bibliografia:
     	https://pt.wikipedia.org/wiki/COBOL
